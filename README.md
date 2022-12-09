@@ -3,6 +3,8 @@
 This simple blackjack project was created as a prototype to resemble a game of blackjack.  
 Although during the build of the game, other player's value of hand were not hidden, functionality still worked.  
 
+![alt text](https://github.com/KoiDeve/Blackjack-Prototype/blob/main/Snapshots/2-End-Game.PNG?raw=true)
+
 ## Source code included, as well as snapshots of the game in their respective folders.
 
 All content in this repository was created by KoiDev.
